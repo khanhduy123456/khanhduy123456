@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは！</h1>
+<h1 align="center">おはようございます。</h1>
 
 <p align="center">
   <a href="https://your-portfolio.com" target="_blank">
@@ -58,6 +58,6 @@ ReactJS、NextJS、TypeScript に精通しており、シンプルなMVPから�
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khanhduy123456&label=Profile%20Views&color=1a1b27&style=for-the-badge" alt="Profile Views" />
+  <img src="https://count.getloli.com/@khanhduy123456?theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
 </p>
 ```
