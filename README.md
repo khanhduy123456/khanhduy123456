@@ -1,3 +1,4 @@
+```html
 <h1 align="center">こんにちは！</h1>
 
 <p align="center">
@@ -52,3 +53,12 @@ ReactJS、NextJS、TypeScript に精通しており、シンプルなMVPから�
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhduy123456&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khanhduy123456&label=Profile%20Views&color=1a1b27&style=for-the-badge" alt="Profile Views" />
+</p>
+```
