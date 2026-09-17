@@ -1,4 +1,3 @@
-```html
 <h1 align="center">こんにちは！</h1>
 
 <p align="center">
