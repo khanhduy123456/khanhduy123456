@@ -46,12 +46,13 @@ ReactJS、NextJS、TypeScript に精通しており、シンプルなMVPから�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhduy123456&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=khanhduy123456&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhduy123456&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=khanhduy123456&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
