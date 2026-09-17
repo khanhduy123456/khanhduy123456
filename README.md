@@ -56,6 +56,20 @@ ReactJS、NextJS、TypeScript に精通しており、シンプルなMVPから�
 
 ---
 
+
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:khanhduyx0000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+
 ## 👀 Profile Views
 
 <p align="center">
